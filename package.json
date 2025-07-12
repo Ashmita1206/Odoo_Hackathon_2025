@@ -1,0 +1,26 @@
+{
+  "name": "stackit-qa-platform",
+  "version": "1.0.0",
+  "description": "A professional Q&A forum platform with modern UI and rich features",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install",
+    "start": "cd server && npm start",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["qa", "forum", "stackoverflow", "questions", "answers"],
+  "author": "StackIt Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3",
+    "mongoose": "^8.0.0"
+  }
+} 
