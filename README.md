@@ -22,11 +22,15 @@ A modern, full-stack Q&A platform built with React, Node.js, and MongoDB. StackI
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Landing+Page" alt="Landing Page" width="400" />
-  <img src="https://via.placeholder.com/800x400/10B981/FFFFFF?text=Questions+Feed" alt="Questions Feed" width="400" />
+  <img width="2560" height="1371" alt="Landing Page" src="https://github.com/user-attachments/assets/12342941-fff0-49ca-afb7-cb0769d2b520" />
+  <img width="2559" height="1353" alt="Sign-Up Page" src="https://github.com/user-attachments/assets/432c3ba9-6e3a-407b-b578-a4a517a4ef63" />
   <br />
-  <img src="https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Question+Detail" alt="Question Detail" width="400" />
-  <img src="https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=Admin+Dashboard" alt="Admin Dashboard" width="400" />
+  <img width="2560" height="1365" alt="Home Page" src="https://github.com/user-attachments/assets/914eedca-f420-4b8b-846b-64993dfb0cc0" />
+  <img width="2560" height="1371" alt="Questions+Feed" src="https://github.com/user-attachments/assets/98fa68c4-f404-46bb-bc84-020b4f0b9cb7" />
+  <br />
+  <img width="2555" height="1373" alt="Admin Page" src="https://github.com/user-attachments/assets/1db33112-692a-4ba8-ae0c-6bb12240e9ac" />
+  <img width="2560" height="1366" alt="Settings" src="https://github.com/user-attachments/assets/252a8159-f556-4f84-a84d-1882db2d9b1a" />
+  <br/>
 </div>
 
 ## 🎥 Demo Video
