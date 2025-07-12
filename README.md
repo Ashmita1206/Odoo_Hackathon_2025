@@ -12,9 +12,7 @@
 
 <div align="center">
   <h3>🚀 Live Demo</h3>
-  <p><strong>Frontend:</strong> <a href="https://stackit-frontend.vercel.app">https://stackit-frontend.vercel.app</a></p>
-  <p><strong>Backend API:</strong> <a href="https://stackit-api.onrender.com">https://stackit-api.onrender.com</a></p>
-  <p><strong>Demo Video:</strong> <a href="https://youtu.be/your-demo-video">Watch Demo</a></p>
+    <p><strong>Demo Video:</strong> <a href="https://youtu.be/your-demo-video">Watch Demo</a></p>
 </div>
 
 <br />
