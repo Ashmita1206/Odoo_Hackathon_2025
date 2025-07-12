@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>🚀 Live Demo</h3>
-    <p><strong>Demo Video:</strong> <a href="(https://drive.google.com/file/d/1YNeEcyJlSuUa8jrsyXPGmja1TmNLBfbp/view?usp=drivesdk)">Watch Demo</a></p>
+    <p><strong>Demo Video:</strong> <a href="https://drive.google.com/file/d/1YNeEcyJlSuUa8jrsyXPGmja1TmNLBfbp/view?usp=drivesdk">Watch Demo</a></p>
 </div>
 
 <br />
